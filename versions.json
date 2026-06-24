@@ -1,3 +1,4 @@
 {
-  "lls_doorlock": { "version": "1.0.0", "message": "" }
+  "lls_doorlock": { "version": "1.0.1", "message": "" },
+  "lls_garage":  { "version": "1.0.0", "message": "" }
 }
